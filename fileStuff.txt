@@ -10,3 +10,4 @@ Public
 funproject
 hs_err_pid24875.log
 someFolder
+blah
