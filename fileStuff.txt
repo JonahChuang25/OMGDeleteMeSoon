@@ -1,0 +1,12 @@
+Applications
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+funproject
+hs_err_pid24875.log
+someFolder
